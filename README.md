@@ -31,3 +31,11 @@ The app expects a `data.csv` in the project root by default. You can also upload
 - `src/app.py` — Streamlit UI
 - `src/data_utils.py` — data loading, cleaning, transformations
 - `src/charts.py` — chart helpers using Altair
+
+## [Launch App](https://vcgpa26.streamlit.app/)
+
+---
+
+### Note
+
+This app uses data sourced ethically, and does not intend to infringe on anyone's rights. If your information is present in the dataset and you would prefer to have your name and email redacted, please contact me via [email](mailto:kanishka.developer@gmail.com).
